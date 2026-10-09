@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=2EA8FF&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Pablo+%F0%9F%91%8B;Desarrollador+de+Automatizaci%C3%B3n+e+IA;Automatizo+procesos+completos+de+empresa;Python+%C2%B7+TypeScript+%C2%B7+AWS+%C2%B7+n8n" alt="Hola, soy Pablo">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=2EA8FF&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Pablo;Desarrollador+de+Automatizaci%C3%B3n+e+IA;Automatizo+procesos+completos+de+empresa;Python+%C2%B7+TypeScript+%C2%B7+AWS+%C2%B7+n8n" alt="Hola, soy Pablo">
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 
 ---
 
-## 👋 En pocas palabras
+## En pocas palabras
 
 Trabajo en **365Rider**, un e-commerce de ciclismo y running que vende en toda Europa. Empecé como programador y hoy me dedico a que la empresa funcione con menos trabajo manual: **automatizo procesos completos**, construyo **herramientas internas** y aplico **IA** donde de verdad aporta.
 
@@ -25,27 +25,23 @@ Formado en **Desarrollo de Aplicaciones Multiplataforma (DAM)**, con especializa
 
 ---
 
-## 🧩 Qué hago
+## Qué hago
 
 <table>
 <tr>
 <td align="center" width="25%">
-<h3>💶</h3>
 <b>Finanzas automatizadas</b><br>
 <sub>Facturas, pedidos de compra y registro contable en el ERP sin pasos manuales.</sub>
 </td>
 <td align="center" width="25%">
-<h3>🖥️</h3>
 <b>Apps internas</b><br>
 <sub>Herramientas a medida que cualquier persona del equipo puede usar sin formación.</sub>
 </td>
 <td align="center" width="25%">
-<h3>🤖</h3>
 <b>IA aplicada</b><br>
 <sub>Asistentes que trabajan con datos reales de la empresa y con control humano.</sub>
 </td>
 <td align="center" width="25%">
-<h3>🔗</h3>
 <b>Integraciones</b><br>
 <sub>ERP, tienda online, CRM y helpdesk conectados por API y desplegados en AWS.</sub>
 </td>
@@ -54,9 +50,9 @@ Formado en **Desarrollo de Aplicaciones Multiplataforma (DAM)**, con especializa
 
 ---
 
-## 📂 Proyectos
+## Proyectos
 
-### 🤖 Asistente de IA para atención al cliente
+### Asistente de IA para atención al cliente
 `Sistema interno en producción`
 
 | | |
@@ -70,7 +66,7 @@ Formado en **Desarrollo de Aplicaciones Multiplataforma (DAM)**, con especializa
 ![PrestaShop](https://img.shields.io/badge/PrestaShop_API-DF0067?style=flat-square&logo=prestashop&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-7C3AED?style=flat-square&logo=anthropic&logoColor=white)
 
-### 💶 Automatización de contabilidad y compras
+### Automatización de contabilidad y compras
 `Sistema interno en producción`
 
 | | |
@@ -84,7 +80,7 @@ Formado en **Desarrollo de Aplicaciones Multiplataforma (DAM)**, con especializa
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
-### 🎮 [Super-MarioJS](https://github.com/pablogarciapampara/Super-MarioJS)
+### [Super-MarioJS](https://github.com/pablogarciapampara/Super-MarioJS)
 `Proyecto personal`
 
 Recreación del clásico juego de plataformas que se juega directamente en el navegador.
@@ -95,7 +91,7 @@ Recreación del clásico juego de plataformas que se juega directamente en el na
 
 ---
 
-## 🧰 Mi stack
+## Mi stack
 
 | Área | Tecnologías |
 |---|---|
@@ -108,7 +104,7 @@ Recreación del clásico juego de plataformas que se juega directamente en el na
 
 ---
 
-## 🧭 Cómo trabajo
+## Cómo trabajo
 
 - **De principio a fin.** Si una automatización deja pasos manuales, no está terminada.
 - **Con control.** La IA propone; las reglas y las personas deciden lo importante.
@@ -116,7 +112,7 @@ Recreación del clásico juego de plataformas que se juega directamente en el na
 
 ---
 
-## 📈 Actividad
+## Actividad
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pablogarciapampara&show_icons=true&theme=tokyonight&hide_border=true&locale=es" height="165" alt="Estadísticas">
